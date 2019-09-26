@@ -14,13 +14,25 @@ Documents for Smart Working Desk project
  * Cloning repo: https://github.com/ndphu/smart-working-desk-ops.git
  * Navigate to `local` directory
  * Run `docker-compose up`
- 
+
 ## Run the UI
+### Using test version
+ * Access the Test UI at: http://face-ui-test.cfapps.io/#/config 
+   * (please DON'T HTTPS, otherwise browsers will block all request calls from https site to http server)
+ * Setup API and Websocket URL:
+   * Backend URL: `http://<your_virtual_machine_ip_address>:8080/api`
+   * Websocket URL: `ws://<your_virtual_machine_ip_address>:8080/api/ws`
+
+### Or building from source
 * Cloning repo: https://github.com/ndphu/face-ui.git
 * Edit: `src/api/Config.js`, update:
   * baseUrl: 'http://<your_virtual_machine_ip_address>:8080/api'
   * wsUrl : 'ws://<your_virtual_machine_ip_address>:8080/api/ws'
 * Run `npm start`
+
+## Emulate the Camera Device
+ * Download the Windows build: https://github.com/ndphu/framed-mqtt/releases/tag/0.0.1-alpha-windows
+
 
 # For cloud hosting:
 * TBD...
