@@ -26,8 +26,8 @@ Documents for Smart Working Desk project
 ### Or building from source
 * Cloning repo: https://github.com/ndphu/face-ui.git
 * Edit: `src/api/Config.js`, update:
-  * baseUrl: 'http://<your_virtual_machine_ip_address>:8080/api'
-  * wsUrl : 'ws://<your_virtual_machine_ip_address>:8080/api/ws'
+  * baseUrl: "http://<your_virtual_machine_ip_address>:8080/api"
+  * wsUrl : "ws://<your_virtual_machine_ip_address>:8080/api/ws"
 * Run `npm start`
 
 ## Emulate the Camera Device
