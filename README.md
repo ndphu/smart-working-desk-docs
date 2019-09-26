@@ -32,6 +32,8 @@ Documents for Smart Working Desk project
 
 ## Emulate the Camera Device
  * Download the Windows build: https://github.com/ndphu/framed-mqtt/releases/tag/0.0.1-alpha-windows
+ * Update `mqttBroker` to `tcp://<your_virtual_machine_ip_address>:1883`
+ * Set the `deviceSerial` correctly with the device created from `Smart Working Desk UI`
 
 
 # For cloud hosting:
