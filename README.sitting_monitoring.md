@@ -1,5 +1,5 @@
 # smart-working-desk-docs
-Documents for Smart Working Desk project
+Documents for Sitting Monitoring And Reminding App
 
 # Code repositories
 ### Services
