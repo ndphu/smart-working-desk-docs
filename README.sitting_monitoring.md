@@ -46,6 +46,7 @@ Documents for Sitting Monitoring And Reminding App
  * Cloning repo: https://github.com/ndphu/smart-working-desk-ops.git
  * Navigate to `local` directory
  * Run `docker-compose up`
+ ** To get Slack notification, you should provide `SLACK_BOT_ACCESS_TOKEN` before starting up the docker-compose
 
 ## Run the UI
 ### Using test version
