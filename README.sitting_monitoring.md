@@ -13,7 +13,7 @@ Documents for Sitting Monitoring And Reminding App
    https://github.com/ndphu/monitor-service
 
 #### Notification service
-   TBD: plan to send notification to Mobile device, Slack...
+   https://github.com/ndphu/notification-service.git
    
 #### Commons packages
    https://github.com/ndphu/swd-commons
@@ -22,10 +22,6 @@ Documents for Sitting Monitoring And Reminding App
    https://github.com/ndphu/face-ui
 
 ### Slackbot
-   TBD
-
-### Mobile
-#### Android: 
    TBD
 
 ### Hardwares and emulator
