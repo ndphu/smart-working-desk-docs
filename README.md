@@ -1,6 +1,41 @@
 # smart-working-desk-docs
 Documents for Smart Working Desk project
 
+# Code repositories
+## Services
+### Web API server
+   https://github.com/ndphu/face-service
+   
+### Face recognization worker
+   https://github.com/ndphu/face-recognizer-worker
+
+### Monitoring service
+   https://github.com/ndphu/monitor-service
+
+### Notification service
+   TBD: plan to send notification to Mobile device, Slack...
+   
+### Commons packages
+   https://github.com/ndphu/swd-commons
+ 
+## Web UI
+   https://github.com/ndphu/face-ui
+
+## Slackbot
+   TBD
+
+## Mobile
+### Android: 
+   TBD
+
+## Hardwares and emulator
+### Capture daemon on Raspberry Pi and Camera emulation for Windows
+   https://github.com/ndphu/framed
+
+## OPS
+### Docker stuffs
+   https://github.com/ndphu/smart-working-desk-ops
+
 
 # For local hosting:
 ## Prerequiresite
