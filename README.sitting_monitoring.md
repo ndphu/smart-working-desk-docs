@@ -47,7 +47,7 @@ Documents for Sitting Monitoring And Reminding App
  * Navigate to `local` directory
  * Source the `env.sh` file to test credentials
  * Run `docker-compose build --no-cache` then `docker-compose up`
- Please check the `env.sh` file for needed credentials to integrate with Firebase Auth and Slack
+ * Please check the `env.sh` file for needed credentials to integrate with Firebase Auth and Slack
  
 ### Bring up the UI
 * Cloning repo: https://github.com/ndphu/face-ui.git
